@@ -1,0 +1,2 @@
+Web application for restaurant advertising/portal. Made with jQuery mobile. jQuery mobile framework is not present on the first page, however the other two do
+have it, along with other jQuery/JavaScript features.
